@@ -1,0 +1,169 @@
+Project Proposal
+Title: Scope Analysis of Crime Rate in California Based on Changes in the Rate of Inflation
+Team Members:
+•	Dhwani Shah
+•	Eduardo Gonzalez
+•	Johnathan Tran
+•	Justin Nolan
+Project Description/Outline:
+We aim to investigate the correlation between inflation surges and crime rate fluctuations in California. Our research will focus on identifying years of significant inflation peaks and analyzing crime rates in the two decades before and after these peaks. We will examine crime types, demographic impacts, and correlations with inflation across various regions. Visualizations such as heat maps will illustrate crime trends during inflationary periods.
+Research Questions:
+1.	How does inflation influence crime rates in California?
+2.	Which regions are most affected by inflation in terms of crime rate changes?
+3.	What demographics experience the highest impact from these changes?
+4.	What types of crimes are most prevalent during inflationary periods?
+5.	Are specific cities disproportionately contributing to these crime rate changes?
+Datasets to be Used:
+•	Violent Crime Rate 2000-2013 in California: Link to Dataset
+•	State of California Violent Crime Rate: Link to Dataset
+•	U.S. Inflation Rate by Year (1929-2024): Link to Dataset
+•	Violent Crime vs. Property Crime in California: Link to Dataset
+•	California Crime Statistics: Link to Dataset
+Rough Breakdown of Tasks:
+1.	Data acquisition and dataset creation
+2.	Understanding data limitations and preprocessing
+3.	Data analysis and summary statistics
+4.	Visualization of findings (e.g., heat maps)
+5.	Characterization of inflation-crime rate trends
+Bonus Objective: Explore preventive measures aimed at reducing crime rates during inflationary periods.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Project ideas
+Difference in crime rates during time periods before covid, after covid, and during 
+
+How does crime change during specific major events (festivals and sporting events) that occur in
+
+	Who actually does get hurt in these crimes?
+	Types of crimes, such as murders, or petty crime, larceny , 
+
+Inflation and how it might possibly affect crime rates,
+	Use this to find any correlation between changes in inflation and crime rates occur
+Perhaps we should use the whole west coast, or east coast, and stay away from central states due to 
+
+California heat map of crime
+Crime and inflation
+	Demographics: population identities(age, gender, ethnicity), unemployment rates, 
+			 
+	Types of crimes
+
+
+
+
+
+
+
+
+ Project Proposal
+Title: Scope analysis of crime rate in California based on the changes in the rate of inflation.
+Team Members:
+Dhwani Shah
+Eduardo Gonzalez
+Johnathan Tran
+Justin Nolan
+
+
+
+
+
+
+
+Project Description/Outline:
+We would like to research if there is a correlation between surges in inflation and crime rate activity within the state of California. We would like to investigate years of peak surges in inflation,  and then observe the crime rates that occurred twenty years before and after these surges. We would then investigate the types of crimes, the demographics of who these crimes affected, and the correlation between inflation and crime rates in these areas. We would then create charts describing the trends, such as a heat map of crime rates during peak inflation eras.n
+Research Questions:
+Has inflation affected the crime rates within the state of California?
+Where has inflation affected the local populace the most and what kind of changes did they experience with their crime rates?
+Who were the people most affected by these changes in crime rates?
+What types of crimes were committed during these changes in inflation?
+Are there specific cities that are contributing to these crime rates
+More may occur depending on what we find in the datasets:
+
+(Checking to see if inflation, or larger outside events, affected the crime rates in 
+Datasets to be used: 
+Peaks of inflation and then observe around those time zones, (10 to 20 year range?)
+[Violent crime rate 2000-2013 in California](https://ucbvirtdatapt-adw2223.slack.com/files/U0749FPALUS/F07BGFQ7GBS/hci_crime_752_pl_co_re_ca_2000-2013_21oct15-ada.xlsx?origin_team=T06SD9S3H46&origin_channel=C06S5BW8C79)
+
+State of California – violent crime rate
+https://catalog.data.gov/dataset/violent-crime-rate-9a68e
+
+
+Inflation Rate for the last 100 years
+U.S. Inflation Rate by Year: 1929 to 2024
+https://www.investopedia.com/inflation-rate-by-year-7253832
+Years, rate, etc
+
+Violent Crime vs. Property crime in California
+https://www.ppic.org/publication/crime-trends-in-california/
+
+Datasets: California specific: types of crimes and other details
+	Years, arrest dispositions, just a whole lot of stuff
+	Exports csvs, with readmes, 
+https://openjustice.doj.ca.gov/exploration/crime-statistics
+
+OpenCrimeAPI
+(https://www.crimeometer.com/crime-data-api)
+
+Rough breakdown of tasks:
+Converting data into datasets
+Understanding the limitations of the data
+Uploading information
+Summary Statistics of data
+Plot information
+Create Characterization
+Analysis of data trends
+Limia
+Scope: 2000 - 2024
+/bonus = Prevention: steps taken to curb crime rates through monetary 
+Project Proposal
+Title: Scope Analysis of Crime Rate in California Based on Changes in the Rate of Inflation
+Team Members:
+•	Dhwani Shah
+•	Eduardo Gonzalez
+•	Johnathan Tran
+•	Justin Nolan
+Project Description/Outline:
+We aim to investigate the correlation between inflation surges and crime rate fluctuations in California. Our research will focus on identifying years of significant inflation peaks and analyzing crime rates in the two decades before and after these peaks. We will examine crime types, demographic impacts, and correlations with inflation across various regions. Visualizations such as heat maps will illustrate crime trends during inflationary periods.
+Research Questions:
+6.	How does inflation influence crime rates in California?
+7.	Which regions are most affected by inflation in terms of crime rate changes?
+8.	What demographics experience the highest impact from these changes?
+9.	What types of crimes are most prevalent during inflationary periods?
+10.	Are specific cities disproportionately contributing to these crime rate changes?
+Datasets to be Used:
+•	Violent Crime Rate 2000-2013 in California: Link to Dataset
+•	State of California Violent Crime Rate: Link to Dataset
+•	U.S. Inflation Rate by Year (1929-2024): Link to Dataset
+•	Violent Crime vs. Property Crime in California: Link to Dataset
+•	California Crime Statistics: Link to Dataset
+Rough Breakdown of Tasks:
+6.	Data acquisition and dataset creation
+7.	Understanding data limitations and preprocessing
+8.	Data analysis and summary statistics
+9.	Visualization of findings (e.g., heat maps)
+10.	Characterization of inflation-crime rate trends
+Bonus Objective: Explore preventive measures aimed at reducing crime rates during inflationary periods.
+________________________________________
+
