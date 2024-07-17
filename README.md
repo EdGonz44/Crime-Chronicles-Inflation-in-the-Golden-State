@@ -37,10 +37,15 @@ This line graph has three lines color coded by type of crimes: Violent, Property
 In order to answer the questions as to how inflation rates affect these types of crimes, graphs depicting each category alongside the fluctuation of inflation rates were made as seen below:
 
 ![Inflation vs. Violent Crimes](https://github.com/EdGonz44/Crime-Chronicles-Inflation-in-the-Golden-State/blob/main/group_project/Crime_Chron_images/Inflation%20vs%20Violent%20Crimes.png)
+
 This graph depicts violent crimes versus inflation rates and was found to have a correlation of approximately 0.2. This would mean that there was a slight positive correlation between changes in inflation and changes in violent crimes, with an increase in inflation leading to an increase in violent crimes.
+
 ![Inflation vs. Robbery](https://github.com/EdGonz44/Crime-Chronicles-Inflation-in-the-Golden-State/blob/main/group_project/Crime_Chron_images/Inflation%20vs.%20Robbery.png)
+
 This graph depicts larceny versus inflation rates and was found to have a correlation of approximately -0.2. This would mean that there was a slight ne correlation between changes in inflation and changes in larceny crimes, with an increase in inflation leading to a decrease in larceny crimes.
+
 ![Inflation vs. Property Crimes](https://github.com/EdGonz44/Crime-Chronicles-Inflation-in-the-Golden-State/blob/main/group_project/Crime_Chron_images/Inflation%20vs.%20Property%20Crimes.png)
+
 this graph depicts property crimes versus inflation rate and was found to have a correlation of approximately -0.2. This would mean that there was a slight negative correlation between changes in inflation and changes in property crimes, with an increase in inflation leading to a decrease in property crimes.
 
 What is interesting to note in these graphs, is that whaile they all share similarly weak trends, however, it did not allow us to understand as to why property crimes and larceny crimes experienced a negative correlation to inflation. We suspected that there might be some form of outlier within the data that may be causing these correlations. A box plot was then made in order to discover these possible data outliers, which is depicted below:
@@ -48,15 +53,19 @@ What is interesting to note in these graphs, is that whaile they all share simil
 ![Box Plot of Inflation Rates](https://github.com/EdGonz44/Crime-Chronicles-Inflation-in-the-Golden-State/blob/main/group_project/Crime_Chron_images/Box%20Plot%20of%20Inflation%20Rate.png)
 
 Through this box plot of inflation rates we noticed two outliers that corresponded to the inflation rates for the years 2021 and 2022, and so we believed that these data points were skewing the data in a meaningful way. Using this knowledge we then ommitted these data points in a reconficuration of the categorical crimes against inflation rates, as depicted below:
+
 ![Inflation vs. Violent Crimes(Omissions)](https://github.com/EdGonz44/Crime-Chronicles-Inflation-in-the-Golden-State/blob/main/group_project/Crime_Chron_images/Inflation%20vs.%20Violent%20Crimes%20(Omissions).png)
 
 This graph shows a stronger positive correlation between violent crimes increasing alongside inflation rates as seen in thea areas where those two data points were omitted, however when we checked its correlation, we found that it only incrased slightly to a 0.3 value. Which would mean that while there was an increase in the strength of positive correlation it was not enough to state that there was a definite strong correlation between inflation and violent crimes.
 
 ![Inflation vs. Robbery(Omissions)](https://github.com/EdGonz44/Crime-Chronicles-Inflation-in-the-Golden-State/blob/main/group_project/Crime_Chron_images/Inflation%20vs.%20Robbery%20(Omissions).png)
+
 This graph shows how the omission of the data points affected the inflation rate trend alongside larceny crimes. When the correlation coefficient was checked for this graph, it was shown that it had actually flipped and became approximately 0.2, which would mean that larceny crimes and inflation actually had slightly positive correlation, which is more in keeping with the data trends we see.
 
 ![Inflation vs. Property Crimes(Omissions)](https://github.com/EdGonz44/Crime-Chronicles-Inflation-in-the-Golden-State/blob/main/group_project/Crime_Chron_images/Inflation%20vs.%20Property%20Crimes%20(Omissions).png)
+
 This graph shows how the omission of the data points affected the inflation rate trend alongside property crimes. Similar to the larceny correlation coefficient, the inflation and property crimes was approximatley 0.2, which would mean that property crimes and inflation actually had a slightly positive correlation.
 
-## 
+# Conclusion:
+There is a slight positive correlation between increases in inflation and increases in crime. This correlation suggests that there are outside factors that more heavily influence the increase in crimes than inflation.
 
