@@ -27,12 +27,15 @@ The code used in developing our analysis is stored in the file [VisualizationDat
 
 # Analysis
 The initial steps in this investigation focused on answering as to how crime rates changed over the years. This was done through the creation of a line graph that depicts the total count of all crimes commited in California in each year as seen below:
+
 ![Total Crimes Over 25 Years](https://github.com/EdGonz44/Crime-Chronicles-Inflation-in-the-Golden-State/blob/main/group_project/Crime_Chron_images/Total%20Crimes(25%20Years).png)
 
 Note that the numbers were exceedingly high, essentially in the millions, that the graph was made into a logarithmic scale for ease of reading. This particular graph also shows that onwards from 1998, crime experienced a relative decrease over time, despite certain upticks. This trend would continue and maintain its decrease all the way to the end of the time period.
 
 However, in order to get a better understanding as to how crimes had fluctuated over time, it would be prudent to break down the crime counts by categories, in order to see if there were variations in the trends amongst different types of crimes. The breakdown of these crime trends are shown in the picture below:
+
 ![Scaled Crime Counmt](https://github.com/EdGonz44/Crime-Chronicles-Inflation-in-the-Golden-State/blob/main/group_project/Crime_Chron_images/Scaled%20Crime%20Count.png)
+
 This line graph has three lines color coded by type of crimes: Violent, Property, and Larceny. The data we had found from the California Department of Justice broke down the differing crimes from these three main categories, and as such we took the counts from these columns in order to more easily represent types of crimes based on easily recognizable categories. This grouping by category allows us to then compare these types of crimes towards inflation fluctuations and see the level of severity crimes change in response: i.e., do fluctuations in inflation cause more severe violent crimes (e.g., homicide), or less severe crimes like larceny(e.g., petty-theft). Take note of the fact that this particular graph was scaled through a MinMaxScaler in order to better depict the fluctuations between these categories. The reason for this was due to the fact that each major category had drastic differences in their total count, with the counts for property crimes eclipsing Larceny and Violent Crimes. However, despite their differing relative size, each experienced similar decreases, and increases over time, except for after 2018, which may be due to outside factors.
 
 In order to answer the questions as to how inflation rates affect these types of crimes, graphs depicting each category alongside the fluctuation of inflation rates were made as seen below:
