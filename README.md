@@ -26,6 +26,8 @@ The data collected on inflation rates in the United States from the years 1998 t
 The code used in developing our analysis is stored in the file [VisualizationData](https://github.com/EdGonz44/Crime-Chronicles-Inflation-in-the-Golden-State/blob/main/group_project/VisualizationData.ipynb) as a jupyter notebook.
 
 # Analysis
+A condensed version of this analysis was organized into a [powerpoint presentation](https://github.com/EdGonz44/Crime-Chronicles-Inflation-in-the-Golden-State/blob/main/Communal%20Resources/Crime_Chronicles_ppt_final.pptx), however the detailed analysis is written below:
+
 The initial steps in this investigation focused on answering as to how crime rates changed over the years. This was done through the creation of a line graph that depicts the total count of all crimes commited in California in each year as seen below:
 
 ![Total Crimes Over 25 Years](https://github.com/EdGonz44/Crime-Chronicles-Inflation-in-the-Golden-State/blob/main/group_project/Crime_Chron_images/Total%20Crimes(25%20Years).png)
@@ -72,4 +74,5 @@ This graph shows how the omission of the data points affected the inflation rate
 
 # Conclusion:
 There is a slight positive correlation between increases in inflation and increases in crime. This correlation suggests that there are outside factors that more heavily influence the increase in crimes than inflation.
+
 
