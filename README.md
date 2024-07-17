@@ -23,6 +23,7 @@ The data collected on crime statistics from the years 1998 to 2023 was obtained 
 The data collected on inflation rates in the United States from the years 1998 to 2023 was obtained from Investopedia which detailed the inflation rates, as well the events that were believed to contribute to these rates, for each year from 1998 to 2023. [Investopedia - Inflation Rates](https://github.com/EdGonz44/Crime-Chronicles-Inflation-in-the-Golden-State/blob/main/group_project/Resources/US_Inflation_Rates_1998_to_2023.csv)
 
 ## MainScript
+The code used in developing our analysis is stored in the file [VisualizationData](https://github.com/EdGonz44/Crime-Chronicles-Inflation-in-the-Golden-State/blob/main/group_project/VisualizationData.ipynb) as a jupyter notebook.
 
 # Analysis
 The initial steps in this investigation focused on answering as to how crime rates changed over the years. This was done through the creation of a line graph that depicts the total count of all crimes commited in California in each year as seen below:
