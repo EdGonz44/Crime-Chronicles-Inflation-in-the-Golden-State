@@ -8,9 +8,13 @@ The overall purpose of this project was to investigate as to whether there was a
 
 # Research Questions:
 This investigation would conduct itself with the intent of answering these four questions:
+
 How have crime rates in California changed from 1998 to 2023?
+
 What are the long-term trends in different types of crime (e.g., violent crimes, property crimes) over this 25-year period?
+
 Is there a correlation between annual inflation rates and overall crime rates in California over the past 25 years?
+
 How does inflation impact different types of crime (e.g., theft, burglary, assault) over this period?
 
 ## Resources
